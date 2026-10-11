@@ -3,14 +3,25 @@
 
 ---
 
-## 📱 Download Android APK (সরাসরি ডাউনলোড)
+## 📱 Download Android APK (সরাসরি ডাউনলোড করার উপায়)
 
-ব্যবহারকারীরা কোনো ঝামেলা ছাড়াই সরাসরি নিচের যেকোনো একটি লিংকে ট্যাপ করে সম্পূর্ণ কার্যকর Android APK ডাউনলোড করতে পারবেন:
+### উপায় ১: এই মুহূর্তে সরাসরি ডাউনলোড (AI Studio থেকেই সরাসরি — ১ ক্লিকে!)
+আপনি যদি এখনই আপনার ডিভাইসে বা কম্পিউটারে APK ফাইলটি ডাউনলোড করতে চান, তবে দুটি অত্যন্ত সহজ উপায় রয়েছে:
+1. **ফাইল এক্সপ্লোরার থেকে ডাউনলোড:** বাম পাশের ফাইল ট্রি (File Explorer)-তে সরাসরি **`Elias-Stickers.apk`** ফাইলটি দেখতে পাবেন। ফাইলটির ওপর রাইট-ক্লিক (বা তিন ডট) চেপে **"Download"** সিলেক্ট করুন। ফাইলটি অবিলম্বে আপনার ডিভাইসে সেভ হয়ে যাবে!
+2. **AI Studio Export মেনু:** AI Studio-এর উপরের ডান কোণায় থাকা **Settings / Export** মেনুতে গিয়ে **"Generate APK"** বা **"Export ZIP"** চাপুন।
+
+---
+
+### উপায় ২: গিটহাব থেকে সরাসরি ডাউনলোড (GitHub Direct Download)
+প্রজেক্টটি আপনার গিটহাবে পুশ করার পর নিচের লিংকগুলো স্বয়ংক্রিয়ভাবে কার্যকর হয়ে যাবে:
 
 | ডাউনলোড অপশন | লিংক | বিবরণ |
 | :--- | :--- | :--- |
-| **🚀 Direct Download (Fastest)** | **[⬇️ Download Elias-Stickers.apk (Direct Raw)](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/Elias-Stickers.apk)** | রিপোজিটরি থেকে সরাসরি ১-ক্লিকে ইনস্টলযোগ্য APK ডাউনলোড |
-| **📦 GitHub Releases (Latest)** | **[⬇️ Download from Latest Release](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/Elias-Stickers.apk)** | গিটহাব অফিশিয়াল রিলিজ থেকে ডাউনলোড |
+| **🚀 Direct Raw Link (সবচেয়ে সহজ)** | **[⬇️ Download Elias-Stickers.apk](https://github.com/eliaslearnjobjapan/elias-stickers/raw/main/Elias-Stickers.apk)** | রিপোজিটরি থেকে সরাসরি ১-ক্লিকে ডাউনলোড |
+| **📦 GitHub Releases Link** | **[⬇️ Download from Latest Release](https://github.com/eliaslearnjobjapan/elias-stickers/releases/latest/download/Elias-Stickers.apk)** | অফিশিয়াল রিলিজ অ্যাসেট থেকে ডাউনলোড |
+
+> ⚠️ **কেন আগে 404 Error এসেছিল?**
+> পূর্বে লিংকে ডেমো টেক্সট `YOUR_USERNAME/YOUR_REPOSITORY` ছিল। আপনার গিটহাব অ্যাকাউন্টে রিপোজিটরি তৈরি করে কোড পুশ করার পরেই গিটহাব সার্ভার এই লিংকে ফাইলটি সরবরাহ করতে পারে। তার আগে সরাসরি AI Studio-এর ফাইল এক্সপ্লোরার থেকে `Elias-Stickers.apk` ডাউনলোড করুন!
 
 - **App Name:** Elias Stickers
 - **Version:** `1.0.0`
@@ -104,7 +115,7 @@ git init
 git add .
 git commit -m "Initial commit: Elias Stickers v1.0.0"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git remote add origin https://github.com/eliaslearnjobjapan/elias-stickers.git
 git push -u origin main
 ```
 
