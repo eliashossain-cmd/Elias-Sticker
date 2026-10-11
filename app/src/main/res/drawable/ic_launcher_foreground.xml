@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- White Die-Cut Sticker Outer Contour Outline -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,23 C36.9,23 23,36.9 23,54 C23,71.1 36.9,85 54,85 C71.1,85 85,71.1 85,54 C85,36.9 71.1,23 54,23 Z" />
+
+    <!-- Sticker Inner Colored Circle Badge -->
+    <path
+        android:fillColor="#1E1B18"
+        android:pathData="M54,27 C39.1,27 27,39.1 27,54 C27,68.9 39.1,81 54,81 C68.9,81 81,68.9 81,54 C81,39.1 68.9,27 54,27 Z" />
+
+    <!-- Cool Character Sunglasses Frame -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M37,45 C34.5,45 33,47 33,50 L33,52 C33,56.5 36.5,60 41,60 L44,60 C47.5,60 50,57.5 50,54 L50,50 C50,47 48,45 45.5,45 Z" />
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M62.5,45 C60,45 58,47 58,50 L58,54 C58,57.5 60.5,60 64,60 L67,60 C71.5,60 75,56.5 75,52 L75,50 C75,47 73.5,45 71,45 Z" />
+    <!-- Sunglasses bridge -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M48,48 L60,48 L60,52 L48,52 Z" />
+
+    <!-- Dark lenses -->
+    <path
+        android:fillColor="#1E1B18"
+        android:pathData="M35.5,47.5 C34.5,47.5 34.5,49 34.5,50.5 L34.5,52 C34.5,55 37,58 41,58 L43.5,58 C46,58 48,56 48,53.5 L48,50.5 C48,48.5 47,47.5 45,47.5 Z" />
+    <path
+        android:fillColor="#1E1B18"
+        android:pathData="M63,47.5 C61,47.5 60,48.5 60,50.5 L60,53.5 C60,56 62,58 64.5,58 L67,58 C71,58 73.5,55 73.5,52 L73.5,50.5 C73.5,49 73.5,47.5 72.5,47.5 Z" />
+
+    <!-- Lens Glare Reflection Lines -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,49 L42,49 L39,54 L36,54 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,49 L69,49 L66,54 L63,54 Z" />
+
+    <!-- Cheerful Smile -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M46,65 C48,70 60,70 62,65 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,65 C49,67 59,67 60,65 Z" />
+
+    <!-- Star Sticker Accent Top-Right -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M75,27 L77,32 L82,32 L78,35 L80,40 L75,37 L70,40 L72,35 L68,32 L73,32 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M75,29 L76.2,32.5 L80,32.5 L77,34.8 L78.2,38.5 L75,36.2 L71.8,38.5 L73,34.8 L70,32.5 L73.8,32.5 Z" />
+</vector>

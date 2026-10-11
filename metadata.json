@@ -1,0 +1,6 @@
+{
+  "name": "Elias Stickers",
+  "description": "AI Sticker Generator - Turn your photos into amazing custom sticker packs with 15 styles and emotions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
